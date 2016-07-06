@@ -1,0 +1,649 @@
+source,target,value
+Agric. & Nat. Res. Cons0,Agric. & Nat. Res. Cons1,2575
+Agric. & Nat. Res. Cons0,Architecture1,6
+Agric. & Nat. Res. Cons0,"Area, Eth. & Multidiscip. Studies1",1
+Agric. & Nat. Res. Cons0,Arts: Visual & Performing1,34
+Agric. & Nat. Res. Cons0,Business1,275
+Agric. & Nat. Res. Cons0,"Commun, Fam., & Personal Svcs1",266
+Agric. & Nat. Res. Cons0,Communications1,43
+Agric. & Nat. Res. Cons0,Comp. Sci. & Mathematics1,25
+Agric. & Nat. Res. Cons0,Education1,125
+Agric. & Nat. Res. Cons0,Eng. Tech. & Drafting1,106
+Agric. & Nat. Res. Cons0,Engineering1,143
+Agric. & Nat. Res. Cons0,English & Foreign Lang.1,23
+Agric. & Nat. Res. Cons0,Health Admin. & Assisting1,80
+Agric. & Nat. Res. Cons0,Health Sci. & Techno.1,174
+Agric. & Nat. Res. Cons0,"Philosophy, Religion, & Theology1",3
+Agric. & Nat. Res. Cons0,"Repair, Production, & Construction1",192
+Agric. & Nat. Res. Cons0,Sciences: Biological & Physical1,460
+Agric. & Nat. Res. Cons0,Social Sciences & Law1,105
+Agric. & Nat. Res. Cons1,Agric. & Nat. Res. Cons2,5424
+Agric. & Nat. Res. Cons1,Architecture2,10
+Agric. & Nat. Res. Cons1,"Area, Eth. & Multidiscip. Studies2",0
+Agric. & Nat. Res. Cons1,Arts: Visual & Performing2,17
+Agric. & Nat. Res. Cons1,Business2,130
+Agric. & Nat. Res. Cons1,"Commun, Fam., & Personal Svcs2",127
+Agric. & Nat. Res. Cons1,Communications2,43
+Agric. & Nat. Res. Cons1,Comp. Sci. & Mathematics2,15
+Agric. & Nat. Res. Cons1,Education2,95
+Agric. & Nat. Res. Cons1,Eng. Tech. & Drafting2,24
+Agric. & Nat. Res. Cons1,Engineering2,62
+Agric. & Nat. Res. Cons1,English & Foreign Lang.2,29
+Agric. & Nat. Res. Cons1,Health Admin. & Assisting2,30
+Agric. & Nat. Res. Cons1,Health Sci. & Techno.2,70
+Agric. & Nat. Res. Cons1,"Philosophy, Religion, & Theology2",5
+Agric. & Nat. Res. Cons1,"Repair, Production, & Construction2",24
+Agric. & Nat. Res. Cons1,Sciences: Biological & Physical2,185
+Agric. & Nat. Res. Cons1,Social Sciences & Law2,104
+Architecture0,Agric. & Nat. Res. Cons1,53
+Architecture0,Architecture1,927
+Architecture0,"Area, Eth. & Multidiscip. Studies1",1
+Architecture0,Arts: Visual & Performing1,329
+Architecture0,Business1,434
+Architecture0,"Commun, Fam., & Personal Svcs1",143
+Architecture0,Communications1,65
+Architecture0,Comp. Sci. & Mathematics1,97
+Architecture0,Education1,73
+Architecture0,Eng. Tech. & Drafting1,230
+Architecture0,Engineering1,655
+Architecture0,English & Foreign Lang.1,24
+Architecture0,Health Admin. & Assisting1,3
+Architecture0,Health Sci. & Techno.1,100
+Architecture0,"Philosophy, Religion, & Theology1",7
+Architecture0,"Repair, Production, & Construction1",56
+Architecture0,Sciences: Biological & Physical1,135
+Architecture0,Social Sciences & Law1,127
+Architecture1,Agric. & Nat. Res. Cons2,5
+Architecture1,Architecture2,1078
+Architecture1,"Area, Eth. & Multidiscip. Studies2",2
+Architecture1,Arts: Visual & Performing2,52
+Architecture1,Business2,54
+Architecture1,"Commun, Fam., & Personal Svcs2",11
+Architecture1,Communications2,13
+Architecture1,Comp. Sci. & Mathematics2,14
+Architecture1,Education2,10
+Architecture1,Eng. Tech. & Drafting2,16
+Architecture1,Engineering2,44
+Architecture1,English & Foreign Lang.2,2
+Architecture1,Health Admin. & Assisting2,0
+Architecture1,Health Sci. & Techno.2,5
+Architecture1,"Philosophy, Religion, & Theology2",1
+Architecture1,"Repair, Production, & Construction2",2
+Architecture1,Sciences: Biological & Physical2,8
+Architecture1,Social Sciences & Law2,19
+"Area, Eth. & Multidiscip. Studies0",Agric. & Nat. Res. Cons1,3
+"Area, Eth. & Multidiscip. Studies0",Architecture1,2
+"Area, Eth. & Multidiscip. Studies0","Area, Eth. & Multidiscip. Studies1",16
+"Area, Eth. & Multidiscip. Studies0",Arts: Visual & Performing1,7
+"Area, Eth. & Multidiscip. Studies0",Business1,16
+"Area, Eth. & Multidiscip. Studies0","Commun, Fam., & Personal Svcs1",14
+"Area, Eth. & Multidiscip. Studies0",Communications1,5
+"Area, Eth. & Multidiscip. Studies0",Comp. Sci. & Mathematics1,6
+"Area, Eth. & Multidiscip. Studies0",Education1,6
+"Area, Eth. & Multidiscip. Studies0",Eng. Tech. & Drafting1,0
+"Area, Eth. & Multidiscip. Studies0",Engineering1,4
+"Area, Eth. & Multidiscip. Studies0",English & Foreign Lang.1,16
+"Area, Eth. & Multidiscip. Studies0",Health Admin. & Assisting1,1
+"Area, Eth. & Multidiscip. Studies0",Health Sci. & Techno.1,4
+"Area, Eth. & Multidiscip. Studies0","Philosophy, Religion, & Theology1",0
+"Area, Eth. & Multidiscip. Studies0","Repair, Production, & Construction1",3
+"Area, Eth. & Multidiscip. Studies0",Sciences: Biological & Physical1,10
+"Area, Eth. & Multidiscip. Studies0",Social Sciences & Law1,54
+"Area, Eth. & Multidiscip. Studies1",Agric. & Nat. Res. Cons2,2
+"Area, Eth. & Multidiscip. Studies1",Architecture2,0
+"Area, Eth. & Multidiscip. Studies1","Area, Eth. & Multidiscip. Studies2",152
+"Area, Eth. & Multidiscip. Studies1",Arts: Visual & Performing2,5
+"Area, Eth. & Multidiscip. Studies1",Business2,15
+"Area, Eth. & Multidiscip. Studies1","Commun, Fam., & Personal Svcs2",5
+"Area, Eth. & Multidiscip. Studies1",Communications2,5
+"Area, Eth. & Multidiscip. Studies1",Comp. Sci. & Mathematics2,0
+"Area, Eth. & Multidiscip. Studies1",Education2,4
+"Area, Eth. & Multidiscip. Studies1",Eng. Tech. & Drafting2,0
+"Area, Eth. & Multidiscip. Studies1",Engineering2,2
+"Area, Eth. & Multidiscip. Studies1",English & Foreign Lang.2,14
+"Area, Eth. & Multidiscip. Studies1",Health Admin. & Assisting2,0
+"Area, Eth. & Multidiscip. Studies1",Health Sci. & Techno.2,1
+"Area, Eth. & Multidiscip. Studies1","Philosophy, Religion, & Theology2",1
+"Area, Eth. & Multidiscip. Studies1","Repair, Production, & Construction2",0
+"Area, Eth. & Multidiscip. Studies1",Sciences: Biological & Physical2,3
+"Area, Eth. & Multidiscip. Studies1",Social Sciences & Law2,28
+Arts: Visual & Performing0,Agric. & Nat. Res. Cons1,65
+Arts: Visual & Performing0,Architecture1,103
+Arts: Visual & Performing0,"Area, Eth. & Multidiscip. Studies1",14
+Arts: Visual & Performing0,Arts: Visual & Performing1,9530
+Arts: Visual & Performing0,Business1,1196
+Arts: Visual & Performing0,"Commun, Fam., & Personal Svcs1",682
+Arts: Visual & Performing0,Communications1,1217
+Arts: Visual & Performing0,Comp. Sci. & Mathematics1,384
+Arts: Visual & Performing0,Education1,1042
+Arts: Visual & Performing0,Eng. Tech. & Drafting1,148
+Arts: Visual & Performing0,Engineering1,288
+Arts: Visual & Performing0,English & Foreign Lang.1,399
+Arts: Visual & Performing0,Health Admin. & Assisting1,31
+Arts: Visual & Performing0,Health Sci. & Techno.1,402
+Arts: Visual & Performing0,"Philosophy, Religion, & Theology1",115
+Arts: Visual & Performing0,"Repair, Production, & Construction1",90
+Arts: Visual & Performing0,Sciences: Biological & Physical1,378
+Arts: Visual & Performing0,Social Sciences & Law1,724
+Arts: Visual & Performing1,Agric. & Nat. Res. Cons2,22
+Arts: Visual & Performing1,Architecture2,43
+Arts: Visual & Performing1,"Area, Eth. & Multidiscip. Studies2",9
+Arts: Visual & Performing1,Arts: Visual & Performing2,11839
+Arts: Visual & Performing1,Business2,325
+Arts: Visual & Performing1,"Commun, Fam., & Personal Svcs2",203
+Arts: Visual & Performing1,Communications2,332
+Arts: Visual & Performing1,Comp. Sci. & Mathematics2,135
+Arts: Visual & Performing1,Education2,285
+Arts: Visual & Performing1,Eng. Tech. & Drafting2,28
+Arts: Visual & Performing1,Engineering2,38
+Arts: Visual & Performing1,English & Foreign Lang.2,131
+Arts: Visual & Performing1,Health Admin. & Assisting2,16
+Arts: Visual & Performing1,Health Sci. & Techno.2,75
+Arts: Visual & Performing1,"Philosophy, Religion, & Theology2",33
+Arts: Visual & Performing1,"Repair, Production, & Construction2",20
+Arts: Visual & Performing1,Sciences: Biological & Physical2,103
+Arts: Visual & Performing1,Social Sciences & Law2,244
+Business0,Agric. & Nat. Res. Cons1,339
+Business0,Architecture1,28
+Business0,"Area, Eth. & Multidiscip. Studies1",15
+Business0,Arts: Visual & Performing1,461
+Business0,Business1,19154
+Business0,"Commun, Fam., & Personal Svcs1",1575
+Business0,Communications1,791
+Business0,Comp. Sci. & Mathematics1,477
+Business0,Education1,551
+Business0,Eng. Tech. & Drafting1,224
+Business0,Engineering1,900
+Business0,English & Foreign Lang.1,172
+Business0,Health Admin. & Assisting1,109
+Business0,Health Sci. & Techno.1,603
+Business0,"Philosophy, Religion, & Theology1",60
+Business0,"Repair, Production, & Construction1",185
+Business0,Sciences: Biological & Physical1,646
+Business0,Social Sciences & Law1,1462
+Business1,Agric. & Nat. Res. Cons2,117
+Business1,Architecture2,29
+Business1,"Area, Eth. & Multidiscip. Studies2",14
+Business1,Arts: Visual & Performing2,206
+Business1,Business2,29540
+Business1,"Commun, Fam., & Personal Svcs2",771
+Business1,Communications2,713
+Business1,Comp. Sci. & Mathematics2,328
+Business1,Education2,337
+Business1,Eng. Tech. & Drafting2,108
+Business1,Engineering2,167
+Business1,English & Foreign Lang.2,161
+Business1,Health Admin. & Assisting2,73
+Business1,Health Sci. & Techno.2,238
+Business1,"Philosophy, Religion, & Theology2",34
+Business1,"Repair, Production, & Construction2",83
+Business1,Sciences: Biological & Physical2,249
+Business1,Social Sciences & Law2,785
+"Commun, Fam., & Personal Svcs0",Agric. & Nat. Res. Cons1,48
+"Commun, Fam., & Personal Svcs0",Architecture1,4
+"Commun, Fam., & Personal Svcs0","Area, Eth. & Multidiscip. Studies1",4
+"Commun, Fam., & Personal Svcs0",Arts: Visual & Performing1,67
+"Commun, Fam., & Personal Svcs0",Business1,506
+"Commun, Fam., & Personal Svcs0","Commun, Fam., & Personal Svcs1",2078
+"Commun, Fam., & Personal Svcs0",Communications1,93
+"Commun, Fam., & Personal Svcs0",Comp. Sci. & Mathematics1,48
+"Commun, Fam., & Personal Svcs0",Education1,348
+"Commun, Fam., & Personal Svcs0",Eng. Tech. & Drafting1,47
+"Commun, Fam., & Personal Svcs0",Engineering1,54
+"Commun, Fam., & Personal Svcs0",English & Foreign Lang.1,45
+"Commun, Fam., & Personal Svcs0",Health Admin. & Assisting1,61
+"Commun, Fam., & Personal Svcs0",Health Sci. & Techno.1,353
+"Commun, Fam., & Personal Svcs0","Philosophy, Religion, & Theology1",22
+"Commun, Fam., & Personal Svcs0","Repair, Production, & Construction1",47
+"Commun, Fam., & Personal Svcs0",Sciences: Biological & Physical1,143
+"Commun, Fam., & Personal Svcs0",Social Sciences & Law1,756
+"Commun, Fam., & Personal Svcs1",Agric. & Nat. Res. Cons2,69
+"Commun, Fam., & Personal Svcs1",Architecture2,1
+"Commun, Fam., & Personal Svcs1","Area, Eth. & Multidiscip. Studies2",6
+"Commun, Fam., & Personal Svcs1",Arts: Visual & Performing2,82
+"Commun, Fam., & Personal Svcs1",Business2,774
+"Commun, Fam., & Personal Svcs1","Commun, Fam., & Personal Svcs2",14048
+"Commun, Fam., & Personal Svcs1",Communications2,188
+"Commun, Fam., & Personal Svcs1",Comp. Sci. & Mathematics2,94
+"Commun, Fam., & Personal Svcs1",Education2,486
+"Commun, Fam., & Personal Svcs1",Eng. Tech. & Drafting2,46
+"Commun, Fam., & Personal Svcs1",Engineering2,60
+"Commun, Fam., & Personal Svcs1",English & Foreign Lang.2,70
+"Commun, Fam., & Personal Svcs1",Health Admin. & Assisting2,75
+"Commun, Fam., & Personal Svcs1",Health Sci. & Techno.2,496
+"Commun, Fam., & Personal Svcs1","Philosophy, Religion, & Theology2",21
+"Commun, Fam., & Personal Svcs1","Repair, Production, & Construction2",45
+"Commun, Fam., & Personal Svcs1",Sciences: Biological & Physical2,383
+"Commun, Fam., & Personal Svcs1",Social Sciences & Law2,594
+Communications0,Agric. & Nat. Res. Cons1,72
+Communications0,Architecture1,8
+Communications0,"Area, Eth. & Multidiscip. Studies1",13
+Communications0,Arts: Visual & Performing1,434
+Communications0,Business1,941
+Communications0,"Commun, Fam., & Personal Svcs1",327
+Communications0,Communications1,3770
+Communications0,Comp. Sci. & Mathematics1,83
+Communications0,Education1,219
+Communications0,Eng. Tech. & Drafting1,29
+Communications0,Engineering1,75
+Communications0,English & Foreign Lang.1,311
+Communications0,Health Admin. & Assisting1,12
+Communications0,Health Sci. & Techno.1,210
+Communications0,"Philosophy, Religion, & Theology1",29
+Communications0,"Repair, Production, & Construction1",19
+Communications0,Sciences: Biological & Physical1,122
+Communications0,Social Sciences & Law1,476
+Communications1,Agric. & Nat. Res. Cons2,18
+Communications1,Architecture2,1
+Communications1,"Area, Eth. & Multidiscip. Studies2",9
+Communications1,Arts: Visual & Performing2,204
+Communications1,Business2,329
+Communications1,"Commun, Fam., & Personal Svcs2",175
+Communications1,Communications2,6901
+Communications1,Comp. Sci. & Mathematics2,68
+Communications1,Education2,118
+Communications1,Eng. Tech. & Drafting2,9
+Communications1,Engineering2,15
+Communications1,English & Foreign Lang.2,176
+Communications1,Health Admin. & Assisting2,7
+Communications1,Health Sci. & Techno.2,67
+Communications1,"Philosophy, Religion, & Theology2",11
+Communications1,"Repair, Production, & Construction2",4
+Communications1,Sciences: Biological & Physical2,44
+Communications1,Social Sciences & Law2,267
+Comp. Sci. & Mathematics0,Agric. & Nat. Res. Cons1,21
+Comp. Sci. & Mathematics0,Architecture1,6
+Comp. Sci. & Mathematics0,"Area, Eth. & Multidiscip. Studies1",2
+Comp. Sci. & Mathematics0,Arts: Visual & Performing1,295
+Comp. Sci. & Mathematics0,Business1,752
+Comp. Sci. & Mathematics0,"Commun, Fam., & Personal Svcs1",136
+Comp. Sci. & Mathematics0,Communications1,120
+Comp. Sci. & Mathematics0,Comp. Sci. & Mathematics1,3937
+Comp. Sci. & Mathematics0,Education1,78
+Comp. Sci. & Mathematics0,Eng. Tech. & Drafting1,244
+Comp. Sci. & Mathematics0,Engineering1,1267
+Comp. Sci. & Mathematics0,English & Foreign Lang.1,45
+Comp. Sci. & Mathematics0,Health Admin. & Assisting1,11
+Comp. Sci. & Mathematics0,Health Sci. & Techno.1,102
+Comp. Sci. & Mathematics0,"Philosophy, Religion, & Theology1",13
+Comp. Sci. & Mathematics0,"Repair, Production, & Construction1",59
+Comp. Sci. & Mathematics0,Sciences: Biological & Physical1,281
+Comp. Sci. & Mathematics0,Social Sciences & Law1,187
+Comp. Sci. & Mathematics1,Agric. & Nat. Res. Cons2,24
+Comp. Sci. & Mathematics1,Architecture2,2
+Comp. Sci. & Mathematics1,"Area, Eth. & Multidiscip. Studies2",1
+Comp. Sci. & Mathematics1,Arts: Visual & Performing2,114
+Comp. Sci. & Mathematics1,Business2,456
+Comp. Sci. & Mathematics1,"Commun, Fam., & Personal Svcs2",116
+Comp. Sci. & Mathematics1,Communications2,78
+Comp. Sci. & Mathematics1,Comp. Sci. & Mathematics2,6957
+Comp. Sci. & Mathematics1,Education2,115
+Comp. Sci. & Mathematics1,Eng. Tech. & Drafting2,82
+Comp. Sci. & Mathematics1,Engineering2,224
+Comp. Sci. & Mathematics1,English & Foreign Lang.2,61
+Comp. Sci. & Mathematics1,Health Admin. & Assisting2,9
+Comp. Sci. & Mathematics1,Health Sci. & Techno.2,46
+Comp. Sci. & Mathematics1,"Philosophy, Religion, & Theology2",10
+Comp. Sci. & Mathematics1,"Repair, Production, & Construction2",34
+Comp. Sci. & Mathematics1,Sciences: Biological & Physical2,168
+Comp. Sci. & Mathematics1,Social Sciences & Law2,153
+Education0,Agric. & Nat. Res. Cons1,122
+Education0,Architecture1,6
+Education0,"Area, Eth. & Multidiscip. Studies1",22
+Education0,Arts: Visual & Performing1,677
+Education0,Business1,845
+Education0,"Commun, Fam., & Personal Svcs1",1184
+Education0,Communications1,293
+Education0,Comp. Sci. & Mathematics1,449
+Education0,Education1,7544
+Education0,Eng. Tech. & Drafting1,56
+Education0,Engineering1,179
+Education0,English & Foreign Lang.1,626
+Education0,Health Admin. & Assisting1,66
+Education0,Health Sci. & Techno.1,817
+Education0,"Philosophy, Religion, & Theology1",68
+Education0,"Repair, Production, & Construction1",50
+Education0,Sciences: Biological & Physical1,402
+Education0,Social Sciences & Law1,1223
+Education1,Agric. & Nat. Res. Cons2,56
+Education1,Architecture2,9
+Education1,"Area, Eth. & Multidiscip. Studies2",3
+Education1,Arts: Visual & Performing2,228
+Education1,Business2,474
+Education1,"Commun, Fam., & Personal Svcs2",670
+Education1,Communications2,182
+Education1,Comp. Sci. & Mathematics2,83
+Education1,Education2,11255
+Education1,Eng. Tech. & Drafting2,18
+Education1,Engineering2,34
+Education1,English & Foreign Lang.2,163
+Education1,Health Admin. & Assisting2,55
+Education1,Health Sci. & Techno.2,368
+Education1,"Philosophy, Religion, & Theology2",42
+Education1,"Repair, Production, & Construction2",8
+Education1,Sciences: Biological & Physical2,163
+Education1,Social Sciences & Law2,431
+Eng. Tech. & Drafting0,Agric. & Nat. Res. Cons1,37
+Eng. Tech. & Drafting0,Architecture1,35
+Eng. Tech. & Drafting0,"Area, Eth. & Multidiscip. Studies1",1
+Eng. Tech. & Drafting0,Arts: Visual & Performing1,70
+Eng. Tech. & Drafting0,Business1,250
+Eng. Tech. & Drafting0,"Commun, Fam., & Personal Svcs1",128
+Eng. Tech. & Drafting0,Communications1,38
+Eng. Tech. & Drafting0,Comp. Sci. & Mathematics1,332
+Eng. Tech. & Drafting0,Education1,39
+Eng. Tech. & Drafting0,Eng. Tech. & Drafting1,570
+Eng. Tech. & Drafting0,Engineering1,1471
+Eng. Tech. & Drafting0,English & Foreign Lang.1,8
+Eng. Tech. & Drafting0,Health Admin. & Assisting1,7
+Eng. Tech. & Drafting0,Health Sci. & Techno.1,58
+Eng. Tech. & Drafting0,"Philosophy, Religion, & Theology1",8
+Eng. Tech. & Drafting0,"Repair, Production, & Construction1",329
+Eng. Tech. & Drafting0,Sciences: Biological & Physical1,171
+Eng. Tech. & Drafting0,Social Sciences & Law1,65
+Eng. Tech. & Drafting1,Agric. & Nat. Res. Cons2,22
+Eng. Tech. & Drafting1,Architecture2,6
+Eng. Tech. & Drafting1,"Area, Eth. & Multidiscip. Studies2",0
+Eng. Tech. & Drafting1,Arts: Visual & Performing2,33
+Eng. Tech. & Drafting1,Business2,145
+Eng. Tech. & Drafting1,"Commun, Fam., & Personal Svcs2",49
+Eng. Tech. & Drafting1,Communications2,20
+Eng. Tech. & Drafting1,Comp. Sci. & Mathematics2,99
+Eng. Tech. & Drafting1,Education2,20
+Eng. Tech. & Drafting1,Eng. Tech. & Drafting2,2978
+Eng. Tech. & Drafting1,Engineering2,264
+Eng. Tech. & Drafting1,English & Foreign Lang.2,13
+Eng. Tech. & Drafting1,Health Admin. & Assisting2,6
+Eng. Tech. & Drafting1,Health Sci. & Techno.2,38
+Eng. Tech. & Drafting1,"Philosophy, Religion, & Theology2",2
+Eng. Tech. & Drafting1,"Repair, Production, & Construction2",110
+Eng. Tech. & Drafting1,Sciences: Biological & Physical2,48
+Eng. Tech. & Drafting1,Social Sciences & Law2,26
+Engineering0,Agric. & Nat. Res. Cons1,318
+Engineering0,Architecture1,111
+Engineering0,"Area, Eth. & Multidiscip. Studies1",6
+Engineering0,Arts: Visual & Performing1,264
+Engineering0,Business1,1735
+Engineering0,"Commun, Fam., & Personal Svcs1",504
+Engineering0,Communications1,129
+Engineering0,Comp. Sci. & Mathematics1,1374
+Engineering0,Education1,180
+Engineering0,Eng. Tech. & Drafting1,1510
+Engineering0,Engineering1,18556
+Engineering0,English & Foreign Lang.1,80
+Engineering0,Health Admin. & Assisting1,39
+Engineering0,Health Sci. & Techno.1,432
+Engineering0,"Philosophy, Religion, & Theology1",29
+Engineering0,"Repair, Production, & Construction1",728
+Engineering0,Sciences: Biological & Physical1,1847
+Engineering0,Social Sciences & Law1,513
+Engineering1,Agric. & Nat. Res. Cons2,196
+Engineering1,Architecture2,66
+Engineering1,"Area, Eth. & Multidiscip. Studies2",1
+Engineering1,Arts: Visual & Performing2,127
+Engineering1,Business2,995
+Engineering1,"Commun, Fam., & Personal Svcs2",286
+Engineering1,Communications2,110
+Engineering1,Comp. Sci. & Mathematics2,840
+Engineering1,Education2,121
+Engineering1,Eng. Tech. & Drafting2,362
+Engineering1,Engineering2,24094
+Engineering1,English & Foreign Lang.2,66
+Engineering1,Health Admin. & Assisting2,12
+Engineering1,Health Sci. & Techno.2,138
+Engineering1,"Philosophy, Religion, & Theology2",12
+Engineering1,"Repair, Production, & Construction2",99
+Engineering1,Sciences: Biological & Physical2,688
+Engineering1,Social Sciences & Law2,278
+English & Foreign Lang.0,Agric. & Nat. Res. Cons1,33
+English & Foreign Lang.0,Architecture1,4
+English & Foreign Lang.0,"Area, Eth. & Multidiscip. Studies1",36
+English & Foreign Lang.0,Arts: Visual & Performing1,226
+English & Foreign Lang.0,Business1,220
+English & Foreign Lang.0,"Commun, Fam., & Personal Svcs1",100
+English & Foreign Lang.0,Communications1,354
+English & Foreign Lang.0,Comp. Sci. & Mathematics1,47
+English & Foreign Lang.0,Education1,210
+English & Foreign Lang.0,Eng. Tech. & Drafting1,9
+English & Foreign Lang.0,Engineering1,41
+English & Foreign Lang.0,English & Foreign Lang.1,1714
+English & Foreign Lang.0,Health Admin. & Assisting1,11
+English & Foreign Lang.0,Health Sci. & Techno.1,95
+English & Foreign Lang.0,"Philosophy, Religion, & Theology1",21
+English & Foreign Lang.0,"Repair, Production, & Construction1",7
+English & Foreign Lang.0,Sciences: Biological & Physical1,111
+English & Foreign Lang.0,Social Sciences & Law1,388
+English & Foreign Lang.1,Agric. & Nat. Res. Cons2,10
+English & Foreign Lang.1,Architecture2,3
+English & Foreign Lang.1,"Area, Eth. & Multidiscip. Studies2",10
+English & Foreign Lang.1,Arts: Visual & Performing2,77
+English & Foreign Lang.1,Business2,123
+English & Foreign Lang.1,"Commun, Fam., & Personal Svcs2",91
+English & Foreign Lang.1,Communications2,198
+English & Foreign Lang.1,Comp. Sci. & Mathematics2,35
+English & Foreign Lang.1,Education2,150
+English & Foreign Lang.1,Eng. Tech. & Drafting2,2
+English & Foreign Lang.1,Engineering2,14
+English & Foreign Lang.1,English & Foreign Lang.2,3574
+English & Foreign Lang.1,Health Admin. & Assisting2,5
+English & Foreign Lang.1,Health Sci. & Techno.2,55
+English & Foreign Lang.1,"Philosophy, Religion, & Theology2",17
+English & Foreign Lang.1,"Repair, Production, & Construction2",8
+English & Foreign Lang.1,Sciences: Biological & Physical2,84
+English & Foreign Lang.1,Social Sciences & Law2,221
+Health Admin. & Assisting0,Agric. & Nat. Res. Cons1,101
+Health Admin. & Assisting0,Architecture1,7
+Health Admin. & Assisting0,"Area, Eth. & Multidiscip. Studies1",5
+Health Admin. & Assisting0,Arts: Visual & Performing1,80
+Health Admin. & Assisting0,Business1,493
+Health Admin. & Assisting0,"Commun, Fam., & Personal Svcs1",635
+Health Admin. & Assisting0,Communications1,75
+Health Admin. & Assisting0,Comp. Sci. & Mathematics1,57
+Health Admin. & Assisting0,Education1,366
+Health Admin. & Assisting0,Eng. Tech. & Drafting1,40
+Health Admin. & Assisting0,Engineering1,112
+Health Admin. & Assisting0,English & Foreign Lang.1,57
+Health Admin. & Assisting0,Health Admin. & Assisting1,375
+Health Admin. & Assisting0,Health Sci. & Techno.1,2603
+Health Admin. & Assisting0,"Philosophy, Religion, & Theology1",8
+Health Admin. & Assisting0,"Repair, Production, & Construction1",23
+Health Admin. & Assisting0,Sciences: Biological & Physical1,1263
+Health Admin. & Assisting0,Social Sciences & Law1,352
+Health Admin. & Assisting1,Agric. & Nat. Res. Cons2,23
+Health Admin. & Assisting1,Architecture2,0
+Health Admin. & Assisting1,"Area, Eth. & Multidiscip. Studies2",0
+Health Admin. & Assisting1,Arts: Visual & Performing2,12
+Health Admin. & Assisting1,Business2,104
+Health Admin. & Assisting1,"Commun, Fam., & Personal Svcs2",89
+Health Admin. & Assisting1,Communications2,5
+Health Admin. & Assisting1,Comp. Sci. & Mathematics2,15
+Health Admin. & Assisting1,Education2,41
+Health Admin. & Assisting1,Eng. Tech. & Drafting2,14
+Health Admin. & Assisting1,Engineering2,5
+Health Admin. & Assisting1,English & Foreign Lang.2,6
+Health Admin. & Assisting1,Health Admin. & Assisting2,1546
+Health Admin. & Assisting1,Health Sci. & Techno.2,283
+Health Admin. & Assisting1,"Philosophy, Religion, & Theology2",0
+Health Admin. & Assisting1,"Repair, Production, & Construction2",11
+Health Admin. & Assisting1,Sciences: Biological & Physical2,62
+Health Admin. & Assisting1,Social Sciences & Law2,29
+Health Sci. & Techno.0,Agric. & Nat. Res. Cons1,1182
+Health Sci. & Techno.0,Architecture1,26
+Health Sci. & Techno.0,"Area, Eth. & Multidiscip. Studies1",22
+Health Sci. & Techno.0,Arts: Visual & Performing1,558
+Health Sci. & Techno.0,Business1,3221
+Health Sci. & Techno.0,"Commun, Fam., & Personal Svcs1",4666
+Health Sci. & Techno.0,Communications1,498
+Health Sci. & Techno.0,Comp. Sci. & Mathematics1,514
+Health Sci. & Techno.0,Education1,2267
+Health Sci. & Techno.0,Eng. Tech. & Drafting1,249
+Health Sci. & Techno.0,Engineering1,2054
+Health Sci. & Techno.0,English & Foreign Lang.1,376
+Health Sci. & Techno.0,Health Admin. & Assisting1,1183
+Health Sci. & Techno.0,Health Sci. & Techno.1,20079
+Health Sci. & Techno.0,"Philosophy, Religion, & Theology1",89
+Health Sci. & Techno.0,"Repair, Production, & Construction1",126
+Health Sci. & Techno.0,Sciences: Biological & Physical1,16272
+Health Sci. & Techno.0,Social Sciences & Law1,3327
+Health Sci. & Techno.1,Agric. & Nat. Res. Cons2,138
+Health Sci. & Techno.1,Architecture2,7
+Health Sci. & Techno.1,"Area, Eth. & Multidiscip. Studies2",6
+Health Sci. & Techno.1,Arts: Visual & Performing2,112
+Health Sci. & Techno.1,Business2,927
+Health Sci. & Techno.1,"Commun, Fam., & Personal Svcs2",1388
+Health Sci. & Techno.1,Communications2,223
+Health Sci. & Techno.1,Comp. Sci. & Mathematics2,116
+Health Sci. & Techno.1,Education2,871
+Health Sci. & Techno.1,Eng. Tech. & Drafting2,63
+Health Sci. & Techno.1,Engineering2,84
+Health Sci. & Techno.1,English & Foreign Lang.2,121
+Health Sci. & Techno.1,Health Admin. & Assisting2,482
+Health Sci. & Techno.1,Health Sci. & Techno.2,22304
+Health Sci. & Techno.1,"Philosophy, Religion, & Theology2",32
+Health Sci. & Techno.1,"Repair, Production, & Construction2",40
+Health Sci. & Techno.1,Sciences: Biological & Physical2,1261
+Health Sci. & Techno.1,Social Sciences & Law2,755
+"Philosophy, Religion, & Theology0",Agric. & Nat. Res. Cons1,9
+"Philosophy, Religion, & Theology0",Architecture1,1
+"Philosophy, Religion, & Theology0","Area, Eth. & Multidiscip. Studies1",1
+"Philosophy, Religion, & Theology0",Arts: Visual & Performing1,42
+"Philosophy, Religion, & Theology0",Business1,96
+"Philosophy, Religion, & Theology0","Commun, Fam., & Personal Svcs1",64
+"Philosophy, Religion, & Theology0",Communications1,43
+"Philosophy, Religion, & Theology0",Comp. Sci. & Mathematics1,33
+"Philosophy, Religion, & Theology0",Education1,67
+"Philosophy, Religion, & Theology0",Eng. Tech. & Drafting1,6
+"Philosophy, Religion, & Theology0",Engineering1,28
+"Philosophy, Religion, & Theology0",English & Foreign Lang.1,46
+"Philosophy, Religion, & Theology0",Health Admin. & Assisting1,2
+"Philosophy, Religion, & Theology0",Health Sci. & Techno.1,27
+"Philosophy, Religion, & Theology0","Philosophy, Religion, & Theology1",381
+"Philosophy, Religion, & Theology0","Repair, Production, & Construction1",9
+"Philosophy, Religion, & Theology0",Sciences: Biological & Physical1,53
+"Philosophy, Religion, & Theology0",Social Sciences & Law1,220
+"Philosophy, Religion, & Theology1",Agric. & Nat. Res. Cons2,0
+"Philosophy, Religion, & Theology1",Architecture2,1
+"Philosophy, Religion, & Theology1","Area, Eth. & Multidiscip. Studies2",0
+"Philosophy, Religion, & Theology1",Arts: Visual & Performing2,25
+"Philosophy, Religion, & Theology1",Business2,42
+"Philosophy, Religion, & Theology1","Commun, Fam., & Personal Svcs2",28
+"Philosophy, Religion, & Theology1",Communications2,22
+"Philosophy, Religion, & Theology1",Comp. Sci. & Mathematics2,7
+"Philosophy, Religion, & Theology1",Education2,39
+"Philosophy, Religion, & Theology1",Eng. Tech. & Drafting2,2
+"Philosophy, Religion, & Theology1",Engineering2,5
+"Philosophy, Religion, & Theology1",English & Foreign Lang.2,11
+"Philosophy, Religion, & Theology1",Health Admin. & Assisting2,0
+"Philosophy, Religion, & Theology1",Health Sci. & Techno.2,6
+"Philosophy, Religion, & Theology1","Philosophy, Religion, & Theology2",791
+"Philosophy, Religion, & Theology1","Repair, Production, & Construction2",1
+"Philosophy, Religion, & Theology1",Sciences: Biological & Physical2,10
+"Philosophy, Religion, & Theology1",Social Sciences & Law2,62
+"Repair, Production, & Construction0",Agric. & Nat. Res. Cons1,80
+"Repair, Production, & Construction0",Architecture1,3
+"Repair, Production, & Construction0","Area, Eth. & Multidiscip. Studies1",0
+"Repair, Production, & Construction0",Arts: Visual & Performing1,9
+"Repair, Production, & Construction0",Business1,110
+"Repair, Production, & Construction0","Commun, Fam., & Personal Svcs1",79
+"Repair, Production, & Construction0",Communications1,10
+"Repair, Production, & Construction0",Comp. Sci. & Mathematics1,29
+"Repair, Production, & Construction0",Education1,16
+"Repair, Production, & Construction0",Eng. Tech. & Drafting1,209
+"Repair, Production, & Construction0",Engineering1,94
+"Repair, Production, & Construction0",English & Foreign Lang.1,5
+"Repair, Production, & Construction0",Health Admin. & Assisting1,4
+"Repair, Production, & Construction0",Health Sci. & Techno.1,24
+"Repair, Production, & Construction0","Philosophy, Religion, & Theology1",7
+"Repair, Production, & Construction0","Repair, Production, & Construction1",966
+"Repair, Production, & Construction0",Sciences: Biological & Physical1,25
+"Repair, Production, & Construction0",Social Sciences & Law1,27
+"Repair, Production, & Construction1",Agric. & Nat. Res. Cons2,14
+"Repair, Production, & Construction1",Architecture2,0
+"Repair, Production, & Construction1","Area, Eth. & Multidiscip. Studies2",0
+"Repair, Production, & Construction1",Arts: Visual & Performing2,7
+"Repair, Production, & Construction1",Business2,69
+"Repair, Production, & Construction1","Commun, Fam., & Personal Svcs2",30
+"Repair, Production, & Construction1",Communications2,2
+"Repair, Production, & Construction1",Comp. Sci. & Mathematics2,20
+"Repair, Production, & Construction1",Education2,7
+"Repair, Production, & Construction1",Eng. Tech. & Drafting2,84
+"Repair, Production, & Construction1",Engineering2,23
+"Repair, Production, & Construction1",English & Foreign Lang.2,5
+"Repair, Production, & Construction1",Health Admin. & Assisting2,1
+"Repair, Production, & Construction1",Health Sci. & Techno.2,8
+"Repair, Production, & Construction1","Philosophy, Religion, & Theology2",0
+"Repair, Production, & Construction1","Repair, Production, & Construction2",2740
+"Repair, Production, & Construction1",Sciences: Biological & Physical2,9
+"Repair, Production, & Construction1",Social Sciences & Law2,14
+Sciences: Biological & Physical0,Agric. & Nat. Res. Cons1,1149
+Sciences: Biological & Physical0,Architecture1,31
+Sciences: Biological & Physical0,"Area, Eth. & Multidiscip. Studies1",23
+Sciences: Biological & Physical0,Arts: Visual & Performing1,348
+Sciences: Biological & Physical0,Business1,1115
+Sciences: Biological & Physical0,"Commun, Fam., & Personal Svcs1",899
+Sciences: Biological & Physical0,Communications1,222
+Sciences: Biological & Physical0,Comp. Sci. & Mathematics1,465
+Sciences: Biological & Physical0,Education1,428
+Sciences: Biological & Physical0,Eng. Tech. & Drafting1,115
+Sciences: Biological & Physical0,Engineering1,2098
+Sciences: Biological & Physical0,English & Foreign Lang.1,240
+Sciences: Biological & Physical0,Health Admin. & Assisting1,172
+Sciences: Biological & Physical0,Health Sci. & Techno.1,1897
+Sciences: Biological & Physical0,"Philosophy, Religion, & Theology1",53
+Sciences: Biological & Physical0,"Repair, Production, & Construction1",71
+Sciences: Biological & Physical0,Sciences: Biological & Physical1,12956
+Sciences: Biological & Physical0,Social Sciences & Law1,1244
+Sciences: Biological & Physical1,Agric. & Nat. Res. Cons2,405
+Sciences: Biological & Physical1,Architecture2,23
+Sciences: Biological & Physical1,"Area, Eth. & Multidiscip. Studies2",21
+Sciences: Biological & Physical1,Arts: Visual & Performing2,211
+Sciences: Biological & Physical1,Business2,1185
+Sciences: Biological & Physical1,"Commun, Fam., & Personal Svcs2",1191
+Sciences: Biological & Physical1,Communications2,264
+Sciences: Biological & Physical1,Comp. Sci. & Mathematics2,398
+Sciences: Biological & Physical1,Education2,547
+Sciences: Biological & Physical1,Eng. Tech. & Drafting2,75
+Sciences: Biological & Physical1,Engineering2,514
+Sciences: Biological & Physical1,English & Foreign Lang.2,305
+Sciences: Biological & Physical1,Health Admin. & Assisting2,151
+Sciences: Biological & Physical1,Health Sci. & Techno.2,1580
+Sciences: Biological & Physical1,"Philosophy, Religion, & Theology2",49
+Sciences: Biological & Physical1,"Repair, Production, & Construction2",23
+Sciences: Biological & Physical1,Sciences: Biological & Physical2,27753
+Sciences: Biological & Physical1,Social Sciences & Law2,1754
+Social Sciences & Law0,Agric. & Nat. Res. Cons1,187
+Social Sciences & Law0,Architecture1,28
+Social Sciences & Law0,"Area, Eth. & Multidiscip. Studies1",55
+Social Sciences & Law0,Arts: Visual & Performing1,450
+Social Sciences & Law0,Business1,2594
+Social Sciences & Law0,"Commun, Fam., & Personal Svcs1",4058
+Social Sciences & Law0,Communications1,657
+Social Sciences & Law0,Comp. Sci. & Mathematics1,293
+Social Sciences & Law0,Education1,683
+Social Sciences & Law0,Eng. Tech. & Drafting1,87
+Social Sciences & Law0,Engineering1,472
+Social Sciences & Law0,English & Foreign Lang.1,490
+Social Sciences & Law0,Health Admin. & Assisting1,78
+Social Sciences & Law0,Health Sci. & Techno.1,950
+Social Sciences & Law0,"Philosophy, Religion, & Theology1",139
+Social Sciences & Law0,"Repair, Production, & Construction1",73
+Social Sciences & Law0,Sciences: Biological & Physical1,1174
+Social Sciences & Law0,Social Sciences & Law1,10444
+Social Sciences & Law1,Agric. & Nat. Res. Cons2,77
+Social Sciences & Law1,Architecture2,17
+Social Sciences & Law1,"Area, Eth. & Multidiscip. Studies2",34
+Social Sciences & Law1,Arts: Visual & Performing2,182
+Social Sciences & Law1,Business2,1021
+Social Sciences & Law1,"Commun, Fam., & Personal Svcs2",974
+Social Sciences & Law1,Communications2,424
+Social Sciences & Law1,Comp. Sci. & Mathematics2,128
+Social Sciences & Law1,Education2,428
+Social Sciences & Law1,Eng. Tech. & Drafting2,16
+Social Sciences & Law1,Engineering2,62
+Social Sciences & Law1,English & Foreign Lang.2,266
+Social Sciences & Law1,Health Admin. & Assisting2,44
+Social Sciences & Law1,Health Sci. & Techno.2,348
+Social Sciences & Law1,"Philosophy, Religion, & Theology2",83
+Social Sciences & Law1,"Repair, Production, & Construction2",10
+Social Sciences & Law1,Sciences: Biological & Physical2,402
+Social Sciences & Law1,Social Sciences & Law2,17178

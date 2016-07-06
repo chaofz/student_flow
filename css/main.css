@@ -1,0 +1,110 @@
+.squareSvg {
+  float: left;
+}
+
+#sideview0 {
+  /*margin: 340px 0 80px 0;*/
+  position: absolute;
+  left: 1130px;
+  top: 420px;
+}
+
+.proj-title {
+  position: absolute;
+  left: 740px;
+  top: 10px;
+}
+
+#dest {
+  position: absolute;
+  left: 570px;
+  top: 60px;
+  font-size: 20px;
+}
+
+#source {
+  position: absolute;
+  left: -10px;
+  top: 670px;
+  font-size: 20px;
+  transform: rotate(-90deg);
+}
+
+#sideview1 {
+  /*margin: 340px 0 80px 0;*/
+  position: absolute;
+  left: 1130px;
+  top: 720px;
+}
+
+#sankey {
+  position: absolute;
+  left: 1100px;
+  top: 285px;
+}
+
+#sideview {
+  position: absolute; left: 1225px; top:230px;
+}
+
+#histo-form {
+  position: absolute; left: 1240px; top:340px;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: black;
+}
+
+.axis text {
+  font-family: sans-serif;
+  font-size: 12px;
+}
+
+.MyText {
+  fill: #000;
+  text-anchor: middle;
+}
+
+.squareRates {
+  cursor: default;
+}
+
+.chartTitle {
+  position: absolute;
+  font-family: sans-serif;
+  font-size: 14px;
+}
+
+.descrip {
+  position: absolute;
+  left: 140px;
+  top: 1140px;
+  width: 900px;
+}
+
+.node rect {
+  cursor: move;
+  fill-opacity: .9;
+}
+
+.column,
+.row {
+  cursor: default;
+}
+
+.node text {
+  pointer-events: none;
+  font-size: 12px;
+  text-shadow: 0 1px 0 #fff;
+}
+
+input {
+  margin-left: 10px
+}
+
+.link {
+  fill: none;
+  stroke-opacity: .3;
+}

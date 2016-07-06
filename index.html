@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<head>
+  <link href="css/main.css" rel="stylesheet">
+</head>
+
+<body>
+  <h1 class="proj-title">Flow of Student Majors</h1>
+  <p id="dest">DESTINATION</p>
+  <p id="source">SOURCE</p>
+  <form id="sideview" action="">
+    Side View:
+    <input type="radio" name="viewOption" checked="checked" onclick="showSankey()"> Sankey
+    <input type="radio" name="viewOption" onclick="showHisto()"> Histograms
+  </form>
+  <div id="sankey">
+    <span>Planned</span><span style="margin-left: 176px">First-Year</span><span style="margin-left: 170px">Second-Year</span>
+  </div>
+  <div id="histo" style="visibility: hidden">
+    <form id="histo-form" action="">
+      Y Axis:
+      <input type="radio" name="yAxisType" value="fixed" checked="checked"> Fixed
+      <input type="radio" name="yAxisType" value="adjusted"> Adjusted
+    </form>
+    <div style="position:absolute;left: 1600px; top:600px;">
+      <p style="width:40px;height:40px;background:yellow;display: inline-block;"></p>
+      <p style="transform: translate(50px,-63px);">First-Year</p>
+    </div>
+    <div style="position:absolute;left: 1600px; top:685px;">
+      <p style="width:40px;height:40px;background:blue;display: inline-block;"></p>
+      <p style="transform: translate(50px,-63px);">Second-Year</p>
+    </div>
+    <p class="chartTitle" style="left: 1220px; top:380px;">Fig. 1: Major Changing Rate by Gender</p>
+    <p class="chartTitle" style="left: 1190px; top:690px;">Fig. 2: Major Changing Rate by Academic Standing</p>
+  </div>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
+  <script src="js/sankey.js"></script>
+  <script src="js/student_flow.js"></script>
+  <script>
+  </script>
+</body>
